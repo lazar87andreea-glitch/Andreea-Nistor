@@ -17,9 +17,6 @@ With hands-on experience in **UiPath**, **VBA**, **LLMs**, and emerging agentic 
 - ServiceNow swivel task automation  
 - Real-time alerting systems using **Twilio APIs**
 
-> „Designed and implemented an end-to-end monitoring solution reducing manual effort by 90%.”  
-*(din CV)*
-
 ---
 
 ## 🤖 **AI Agent Development**
